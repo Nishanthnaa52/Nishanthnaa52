@@ -16,5 +16,6 @@ Open to networking and collaborations, I am keen on connecting with professional
 
 ### Contact me
 
-![Instagram :](<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>)
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+Instagram
 
