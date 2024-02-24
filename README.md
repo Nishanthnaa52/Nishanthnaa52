@@ -16,7 +16,7 @@ Open to networking and collaborations, I am keen on connecting with professional
 
 ### Contact me
 
-![<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/nishanth_naa_52/)
+[<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/nishanth_naa_52/)
 
 
 ### Workspace Spec
