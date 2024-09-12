@@ -19,7 +19,4 @@ Open to networking and collaborations, I am keen on connecting with professional
 [<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/instagram-new.png" alt="instagram-new" target='_blank'/>](https://www.instagram.com/nishanth_naa_52/)
 
 
-### Workspace Spec
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishanthnaa52&bg_color=000000&color=ffffff&line=05ff09&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
