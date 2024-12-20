@@ -1,4 +1,3 @@
-# Hi there 👋
 ![Profile-banner](./Nishanth.png)
 
 ### I am Nishanth
