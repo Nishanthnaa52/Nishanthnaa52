@@ -1,5 +1,6 @@
 ![Profile-banner](./Nishanth.png)
 
+![profile views]("https://komarev.com/ghpvc/?username=nishanthnaa52&style=for-the-badge")
 ### I am Nishanth
 
 Hello, I'm deeply interested in Python and web application development. Currently I am engineering collage student.
